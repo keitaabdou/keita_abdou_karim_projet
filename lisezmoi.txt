@@ -1,0 +1,42 @@
+Nom : keita 
+Prénom : abdou karim
+thème : réalisation d'une application web présentant trois film
+
+--------------------------------------------Réalisation d'une application web présentant trois films.----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+-------------------------------------------------------film 1 : la série prison break --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acteurs :   1. Wentworth Earl Miller III :  Sont rôle consistait faire évader son frère pour lui éviter la peine de mort.
+            2. Dominic Haakon Myrtvedt Purcell : il joue  le frère de Michael Scofield, dans la série Prison Break et pour le duo qu'il forme avec Wentworth Miller
+            3. Sarah Wayne Callies : Sara Tancredi Scofield est le médecin de la prison de Fox River dans le feuilleton télévisé Prison Break. Il s'agit d'un des personnages principaux de la série et elle est interprétée par Sarah Wayne Callies
+            4. Amaury Nolasco...
+            5. Robert Knepper...
+            6. Wade Williams : Gardien du Pénitencier de FOx River
+            7. William Fichtner : Alexander Mahone est un agent du FBI, joué par William Fichtner. C'est un personnage fictif du feuilleton télévisé Prison Break
+            8. Rockmond Dunbar...
+            9. Rockmond Dunbar : 
+            10.  Paul Adelstein...
+            11. Marshall Allman...
+            etc.....
+la série prison break est un feuilleton télévisé américain en 90 épisodes de 43 minutes créé par Paul Schering et diffusé sur le réseau Fox entre le 29 août 2005 et 15 mai 2009. Ce feuilleton met en scène les mésaventures de deux frères confrontés au monde carcéral. L'intrigue s'articule notamment autour des différentes prisons dans lesquelles eux-mêmes ou certains de leurs proches vont être incarcérés, ainsi que de leurs tentatives d'évasion successives.
+
+-------------------------------------------------------Film 2 : la série 24 heures Chrono------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acteurs :   1. Kiefer Sutherland : Jack Bauer, est chargé de poursuivre les terroristes et de remonter les réseaux souvent aidés par des « taupes » au sein des services spéciaux ou de l’administration.
+            2. Carlos Bernard.
+            3. Mary Lynn Rajskub.
+            4. Elisha Cuthbert : fille de jack Bauer.
+            5. Dennis Haysbert.
+            6. Kim Raver.
+            7. James Morrison.
+            8. Reiko Aylesworth.
+            etc...
+la série 24 heures Chrono est une série télévisée américaine en 204 épisodes de 43 minutes créée par Joel Surnow et Robert Cochran.  La série relate en temps réel les journées de membres d'une agence fictive, la Cellule anti-terroriste (Counter Terrorist Unit en version originale), luttant contre diverses attaques terroristes aux États-Unis. Le personnage principal, Jack Bauer, est chargé de poursuivre les terroristes et de remonter les réseaux souvent aidés par des « taupes » au sein des services spéciaux ou de l’administration.
+
+---------------------------------------------------------------la série La Doña--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Acteurs :  1. Aracely Arámbula : Elle joue le role d'une femme offensée du nom d'Altagracia Sandoval, victime de violence avec un triste passé. 
+            2. David Chocarro.
+            3. Danna Paola.
+            4. Rebecca Jones.
+la série La Doña est une télénovela américano-mexicaine. La Doña est une histoire de vengeance et d'ambition, de séduction et de trahison, qui tourne autour d'une femme offensée du nom d'Altagracia Sandoval, victime de violence avec un triste passé. Lorsqu'elle et sa sœur Regina étaient adolescentes, leurs parents et son petit ami ont été assassinés. Altagracia a été violée pour permettre à sa sœur d'échapper à un groupe de malfrats appelés « les Monkeys ». Elle a donné naissance à une fille, Mónica Hernández, qu'elle ne pouvait pas élever car elle représentait la mémoire vivante de sa pire expérience. Le sort les lie quand elles tombent amoureuses du même homme, Saúl Aguirre, un avocat spécialisé dans la défense des femmes battues et de leurs causes. Trois mondes se réuniront dans un affrontement de la raison, du ressentiment et de l'amour.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------APPLICATION---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
